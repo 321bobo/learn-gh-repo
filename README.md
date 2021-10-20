@@ -1,3 +1,3 @@
 # Learning diary
 
-Description here
+Add some description here later.
